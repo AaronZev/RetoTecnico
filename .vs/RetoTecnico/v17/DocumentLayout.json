@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\model\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:model\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\model\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:model\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\model\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:model\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|c:\\users\\aaron\\desktop\\retotecnico\\retotecnico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF963BAE-E6F4-420F-A9B8-762F284F936E}|RetoTecnico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-02T17:11:57.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:50:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:37:15.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Roles.cs",
+              "RelativeDocumentMoniker": "Model\\Roles.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Roles.cs",
+              "RelativeToolTip": "Model\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:36:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:33:51.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Jwt.cs",
+              "RelativeDocumentMoniker": "Model\\Jwt.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Jwt.cs",
+              "RelativeToolTip": "Model\\Jwt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:37:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T14:36:24.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Productos.cs",
+              "RelativeDocumentMoniker": "Model\\Productos.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Productos.cs",
+              "RelativeToolTip": "Model\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:33:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Categorias.cs",
+              "RelativeDocumentMoniker": "Model\\Categorias.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Categorias.cs",
+              "RelativeToolTip": "Model\\Categorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:33:13.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Model\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Model\\Usuarios.cs",
+              "RelativeToolTip": "Model\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:33:00.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Custom\\Utilities.cs",
+              "RelativeDocumentMoniker": "Custom\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Custom\\Utilities.cs",
+              "RelativeToolTip": "Custom\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:32:36.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:32:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\RetoTecnico\\RetoTecnico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwFEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:27:48.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

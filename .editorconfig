@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8604: Posible argumento de referencia nulo
+dotnet_diagnostic.CS8604.severity = silent
+
+# IDE0058: El valor de la expresión no se utiliza nunca.
+dotnet_diagnostic.IDE0058.severity = none
