@@ -17,3 +17,35 @@ Se realizaron las siguientes validaciones con éxito
 	Nombre y precio requeridos para los productos.
 
 Por un tema de tiempo, no logré integrar una tabla y su crud extra más de Pedidos, el cual pensaba sobre ella como una tabla cabecera y Detalle, teniendo como detalle una lista de productos asignados a un pedido. 
+
+SCRIPTS DE SQL
+
+CREATE TABLE Roles (
+    Id INT PRIMARY KEY IDENTITY(1,1), 
+    Nombre NVARCHAR(100) NOT NULL UNIQUE 
+);
+
+CREATE TABLE Categorias (
+    Id INT PRIMARY KEY IDENTITY(1,1), 
+    Nombre NVARCHAR(100) NOT NULL UNIQUE 
+);
+
+CREATE TABLE Usuarios (
+    Id INT PRIMARY KEY IDENTITY(1,1), 
+    Nombre NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL UNIQUE, 
+    Password NVARCHAR(256) NOT NULL,
+	RolId INT
+	FOREIGN KEY (RolId) REFERENCES Roles(Id) 
+);
+
+CREATE TABLE Productos (
+    Id INT PRIMARY KEY IDENTITY(1,1), 
+    Nombre NVARCHAR(100) NOT NULL,
+    Descripcion NVARCHAR(255),
+    Precio DECIMAL(18, 2) NOT NULL,
+    UsuarioId INT NOT NULL, 
+    CategoriaId INT NOT NULL, 
+    FOREIGN KEY (UsuarioId) REFERENCES Usuarios(Id) , 
+    FOREIGN KEY (CategoriaId) REFERENCES Categorias(Id) 
+);
